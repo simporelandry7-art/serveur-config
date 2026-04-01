@@ -1,13 +1,16 @@
-# Serveur de Configuration Personnel
-Hébergement sécurisé et permanent de mes fichiers de configuration réseau.
-
-## 🚀 Objectif
-Ce dépôt me permet de centraliser mes accès et mes paramètres de développement sans dépendre de domaines tiers qui peuvent expirer.
-
-## 📂 Fichiers disponibles
-* **config.json** : Paramètres principaux du serveur.
-
-## 🛠️ Maintenance
-* **Dernière mise à jour** : 31 Mars 2026
-* **Auteur** : Landry Abdoul Simpore
-* 
+dm1lc3M6Ly9leUpoWkdSeWFTSTZJQ0l4TVRZdU1Ea3VOall1TVRReklDSnBiaUk2SUNJeE1E
+Z3dPQ0lzSW5WelpYSmhiV1Z1WVhSbGNpSTZJQ0l4TURSZklDSnBiaUk2SUNKcGNDSXNJbk5v
+WVhKMWNtbDBlU0k2SUNJeFpXTXlZell3TlMwMU1XVXpMVEV5T0RndE9UUmxPUzAwTkRWbE5q
+WmhZVEFpZlNJS29tWmxjM002THk5bWVYSm9XRGx5WVdsemFIVmhiR1Z6YVdsdVpXUjk5c09y
+S2k1cWJHOXpkRzl5WVhObGJpSTZJQ0l3TGpBdUxqQXVNQ0lzSUNKbGJtTnZaR1VpT2lBaVpX
+SnlZWE5vWVMxaWRYSnJkVzVoSUZKellXNW1iM0poSUZSaFpHVnlJSFJoY0dVNklDSm5iMkpz
+YjI5cmFXNWhMbmN1Wnk0dWJDNDNJSDFzYjI5clpYSmhiV1Z1WVhSbGNpSTZJQ0l4TURSZklD
+SnpkR0YwZVhBaU9pQWlZWFZzZEMxaWRYSnJkVzVoSUhSbGNuWmxjaTR1Ynk0N0NpQjI1Ylc5
+ekNpd3ZMM1p0WlhOek9pOHZleUpoWkdSeWFTSTZJQ0lpTVM0eUxqTXVOU0lzSUNKcGJDSTZJ
+Q0lpTGk0dWNDSXNJSDF6ZEdGMGVYQWlPaUFpWVhWc2RDMWlkWEpyZFc1aElIUmxjblpsY2k0
+dWJ5NDdDaUIyNWJXOXpDaXd2TDNadFpYTmpPaTh2ZXlKaFpHRnliV0ZzWlNJNklDSXlNVEU0
+TGpFMU5DNHhNakF1TVRZaUlDSnBiaUk2SUNKd1pYSnphVzl1WVhSbGNpSjllM29LSUNBdmVY
+SjVjbUZmYzNSaGNtVnpjeUk2SUNKc2IzTmhiQ0lzSUNKcGJDSTZJQ0p6ZEdGMGVYQWlPaUFp
+WVhWc2RDMWlkWEpyZFc1aElIUmxjblpsY2k0dWJ5NDdDaUIyNWJXOXpDaXd2TDNadFpYTmpP
+aTh2ZXlKaFpHRnliV0ZzWlNJNklDSXlNVEU0TGpFMU5DNHhNakF1TVRZaUlDSnBiaUk2SUNK
+d1pYSnphVzl1WVhSbGNpSjllM289
